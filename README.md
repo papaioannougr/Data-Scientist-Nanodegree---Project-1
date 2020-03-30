@@ -8,7 +8,7 @@ For this project I used Seattle data and tried to give insight in the following 
 2) What can a gust easily conclude by observing ratings?
 3) Some descriptive and predictive analysis for price of using Airbnb services in Seattle
 
-In this repository 4 files exist:
+In this repository 1 zip file exist with name CSV files.zip and this contains the following csv files:
 
 1) calendar.csv
 2) reviews.csv
