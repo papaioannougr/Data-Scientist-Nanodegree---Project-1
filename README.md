@@ -37,7 +37,10 @@ The last 3 are the analysis for each corresponding question regarding this proje
 Details of Python codes:
 
 First: 3 before-mentioned csv files were uploaded and explored. Explored the kind of information they have, number of columns, number of rows, volumes of missing values in each variable, descriptive statistics of the 3rd DataFrame. Baes on the last one, a separate dataset was extracted (df_list), which contains structured variables that can be used for analysis.
+
 Second: I tried to create a host's profile using the cancelation policy they follow. 
+
 Third: I tried to extract valuable information from ratings seeking any association or bias betwwen ratings and key characteristics
+
 Fourth: A linear model fitted to predict Prices for using Airbnb services in Seattle
 
